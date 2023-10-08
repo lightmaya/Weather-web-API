@@ -39,4 +39,4 @@ let weather = {
           weather.search();
         }
       });
-      weather.fetchWeather("Jamshedpur");
+      weather.fetchWeather("Ranchi");
